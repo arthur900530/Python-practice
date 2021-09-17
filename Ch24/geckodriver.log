@@ -1,0 +1,146 @@
+1630639456688	geckodriver	INFO	Listening on 127.0.0.1:13506
+1630639459767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileQVnpzg"
+1630639502778	geckodriver	INFO	Listening on 127.0.0.1:13622
+1630639505865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileXuJSxi"
+1630639506215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileXuJSxi\\search.json.mozlz4", (void 0)))
+1630639508063	Marionette	INFO	Listening on port 13631
+1630639508527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630639514016	Marionette	INFO	Stopped listening on port 13631
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630652499170	geckodriver	INFO	Listening on 127.0.0.1:10056
+1630652502325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileOgkmIt"
+1630652503158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileOgkmIt\\search.json.mozlz4", (void 0)))
+1630652505484	Marionette	INFO	Listening on port 10067
+1630652505536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630652512819	Marionette	INFO	Stopped listening on port 10067
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630652532175	geckodriver	INFO	Listening on 127.0.0.1:10149
+1630652535263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileZkBUGz"
+1630652535652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileZkBUGz\\search.json.mozlz4", (void 0)))
+1630652537357	Marionette	INFO	Listening on port 10160
+1630652537439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630652538258	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1630652554844	Marionette	INFO	Stopped listening on port 10160
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630652941162	geckodriver	INFO	Listening on 127.0.0.1:13443
+1630652944240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileF5Dlsl"
+1630652944637	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileF5Dlsl\\search.json.mozlz4", (void 0)))
+1630652946792	Marionette	INFO	Listening on port 13459
+1630652946922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630653425818	Marionette	INFO	Stopped listening on port 13459
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofileGZUbuM"
+1630652978831	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileGZUbuM\\search.json.mozlz4", (void 0)))
+1630652980587	Marionette	INFO	Listening on port 13539
+1630652980658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630653424115	Marionette	INFO	Stopped listening on port 13539
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+emp\\rust_mozprofileJYe1WX"
+1630653396681	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileJYe1WX\\search.json.mozlz4", (void 0)))
+1630653398506	Marionette	INFO	Listening on port 2839
+1630653398531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+1630653627410	Marionette	INFO	Stopped listening on port 2839
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630653933950	geckodriver	INFO	Listening on 127.0.0.1:1840
+1630653937037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileVjLVBu"
+1630653937442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileVjLVBu\\search.json.mozlz4", (void 0)))
+1630653939510	Marionette	INFO	Listening on port 1851
+1630653939728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+1630654002534	Marionette	INFO	Stopped listening on port 1851
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofileVfZRhk"
+1630653981571	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileVfZRhk\\search.json.mozlz4", (void 0)))
+1630653983379	Marionette	INFO	Listening on port 1962
+1630653983409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+1630653996183	Marionette	INFO	Stopped listening on port 1962
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630654062194	geckodriver	INFO	Listening on 127.0.0.1:2081
+1630654065269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiCzAT2"
+1630654065682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiCzAT2\\search.json.mozlz4", (void 0)))
+1630654067530	Marionette	INFO	Listening on port 2093
+1630654067954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630654068450	Marionette	INFO	Stopped listening on port 2093
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630654079636	geckodriver	INFO	Listening on 127.0.0.1:2158
+1630654082737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUjJjxG"
+1630654083102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUjJjxG\\search.json.mozlz4", (void 0)))
+1630654084754	Marionette	INFO	Listening on port 2171
+1630654084796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FITprofessionBOOK.DeepMind&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1735576049995500, line 1: SyntaxError: unexpected token: ':'
+1630654098363	Marionette	INFO	Stopped listening on port 2171
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
